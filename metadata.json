@@ -1,0 +1,7 @@
+{
+  "name": "NOVA AI HUB",
+  "description": "All Your AI Tools. One Free Workspace. 100% free, offline-ready AI, writing, study, coding, media, and productivity hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
